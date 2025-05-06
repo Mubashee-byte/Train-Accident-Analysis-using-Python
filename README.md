@@ -4,7 +4,7 @@
 Analyze train collision data in India to identify patterns, high-risk zones, and factors affecting safety.
 
 # 🛠 Tech Used:
-Python (Jupyter Notebook)
+Python (google Collab Notebook)
 
 Pandas
 
